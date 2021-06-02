@@ -1,5 +1,4 @@
-// https://github.com/17teen
-// Discord: 7teen#3868
+
 
 const Discord = require('discord.js');
 const client = new Discord.Client({ ws: { intents: new Discord.Intents(Discord.Intents.ALL) } });
