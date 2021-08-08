@@ -9,18 +9,6 @@ const prefix = settings.prefix;
 const founder = settings.founder;
 const disableEveryone = settings.DisableEveryone;
 const myID = settings.ID;
-const amiraliconsole = String.raw`
-
-
-
-░░ 　 ░█▀▀█ █▀▄▀█ ░▀░ █▀▀█ ░█▀▀█ █░░ ░▀░ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▀▀█ ░█▀▀█ ▒█▀▀█ ▒█░▄▀ 
-▀▀ 　 ▒█▄▄█ █░▀░█ ▀█▀ █▄▄▀ ▒█▄▄█ █░░ ▀█▀ 　 ▒█▄▄▀ ▒█▀▀▀ ▒█▀▀▄ ▒█▄▄█ ▒█░░░ ▒█▀▄░ 
-░░ 　 ▒█░▒█ ▀░░░▀ ▀▀▀ ▀░▀▀ ▒█░▒█ ▀▀▀ ▀▀▀ 　 ▒█░▒█ ▒█▄▄▄ ▒█▄▄█ ▒█░▒█ ▒█▄▄█ ▒█░▒█
-                                                                      
-
-                                        Author: - AmirAli ¯̶̄Mïłtøη §#6113
-
-`;
 
 console.log(red(amiraliconsole));
 client.on("ready", () => {
